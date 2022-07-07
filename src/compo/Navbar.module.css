@@ -1,0 +1,18 @@
+.nav {
+  grid-column: 1/-1;
+  padding: 10px;
+  background-color: rgba(106, 80, 131, 0.568);
+  align-items: center;
+}
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: end;
+  gap: 20px;
+}
+li {
+  text-decoration: none;
+  padding: 12px 20px;
+  background-color: rgba(131, 68, 190, 0.747);
+  border-radius: 10px;
+}
