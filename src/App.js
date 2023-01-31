@@ -27,9 +27,9 @@ function App() {
       </BrowserRouter> */}
       {/* <ToList /> */}
       {/* <ComA /> */}
-      <FormValid />
-      {/* <Tracker />
-      <ChatApp /> */}
+      {/* <FormValid /> */}
+      {/* <Tracker /> */}
+      <ChatApp />
     </div>
   );
 }

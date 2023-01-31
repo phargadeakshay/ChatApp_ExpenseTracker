@@ -49,7 +49,7 @@ const FormValid = () => {
   };
   const onBlr = () => {
     setFormErrors(validate(formValues));
-  };
+  };  
   return (
     <div className="container">
       {Object.keys(formErrors).length === 0 && isSubmit ? (
